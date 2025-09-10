@@ -1,4 +1,4 @@
-Hi, i'm currently learning about data analytics and finding new challenges in my career. I love learning new things.
+A Petroleum Engineer with 5 years experience in consulting company that loves utilisizing Python
 
 <!---
 grhagandanap/grhagandanap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
